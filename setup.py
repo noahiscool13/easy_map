@@ -11,7 +11,7 @@ setuptools.setup(
     description="Helper functions for bing static maps",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/noahiscool13/easy_map",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
