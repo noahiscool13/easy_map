@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="easy_map",
-    version="0.1",
+    version="0.2",
     author="Noah Jadoenathmisier",
     author_email="n.j.m.jadoenathmisier@student.tudelft.nl",
     description="Helper functions for bing static maps",
